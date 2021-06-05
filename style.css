@@ -11,6 +11,7 @@ main{
   width: 100%;
   margin: 50px auto;
   display: flex;
+  justify-content: center;
 }
 .step-box{
   width: 300px;
